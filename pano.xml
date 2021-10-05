@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17983" start="node1" appversion="6.1.9">
+  <panorama id="node1">
+    <input levelbias="0.400" height="2048" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" width="2048" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2048" predecode="0" width="2048"/>
+      <level preload="0" height="1024" predecode="0" width="1024"/>
+      <level preload="0" height="512" predecode="0" width="512"/>
+      <level preload="1" height="256" predecode="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="" datetime="" nodeid="node1" tags="2. 360_Vivian" author="" copyright="" longitude="" heading="0" source="" info="" latitude="" customnodeid="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" height="20" border="1" background="1" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" enabled="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="CENTRO DE ESTUDIOS INES MARTINEZ DE MARTINEZ" target="" pan="-330.52" tilt="16.07" url="images/1. ima.png" skinid="ht_image" description="Servicio Nacional de Aprendizaje" id="1. punto"/>
+      <hotspot title="Entrada Principal" target="-99.3/5.1/70.0" pan="-27.43" tilt="-12.12" url="{node2}" skinid="ht_node" description="" id="2. Punto"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" pansize="10.000" pan="-3.110" tilt="35.280" loop="1" level="1.000" mode="3" nodechangekeep="0" startmutedmobile="0" field="90.000" id="Element01" ambientlevel="0.000">
+        <source url="media/y2meta.com - Música De Fondo Para Videos Y Presentaciones Corporativas I Deeper por e-soundtrax (128 kbps).mp3"/>
+      </sound>
+      <lensflare pan="-37.010" tilt="32.440" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare01"/>
+      <lensflare pan="-133.180" tilt="35.400" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare02"/>
+      <lensflare pan="-284.590" tilt="16.070" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare03"/>
+      <lensflare pan="-247.400" tilt="20.700" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare04"/>
+      <lensflare pan="-77.710" tilt="11.320" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare05"/>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendtime="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve" enabled="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" speedwheel="1" simulatemass="1" rubberband="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" height="2048" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" width="2048" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2048" predecode="0" width="2048"/>
+      <level preload="0" height="1024" predecode="0" width="1024"/>
+      <level preload="0" height="512" predecode="0" width="512"/>
+      <level preload="1" height="256" predecode="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="" datetime="" nodeid="node2" tags="2. 360_Vivian" author="" copyright="" longitude="" heading="0" source="" info="" latitude="" customnodeid="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" height="20" border="1" background="1" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" enabled="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Fachada Centro Ines Martinez de Martinez" target="4.4/4.7/70.0" pan="-270.08" tilt="0.96" url="{node1}" skinid="ht_node" description="" id="Point01"/>
+      <hotspot title="Circulación centro" target="-142.3/8.7/70.0" pan="-183.9" tilt="-2.06" url="{node3}" skinid="ht_node" description="" id="Point02"/>
+      <hotspot title="Ambiente de Formación" target="-54.9/-3.9/70.0" pan="-120.94" tilt="-2.91" url="{node10}" skinid="ht_node" description="" id="Punto 3"/>
+      <hotspot title="Ambiente de Sistemas" target="-43.8/-8.9/70.0" pan="-68.69" tilt="-2.49" url="{node11}" skinid="ht_node" description="" id="Point04"/>
+      <hotspot title="Segunda Planta" target="-95.0/-4.9/70.0" pan="-96.17" tilt="10.79" url="{node4}" skinid="ht_node" description="" id="Point05"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" pansize="10.000" pan="-84.140" tilt="26.240" loop="1" level="1.000" mode="3" nodechangekeep="0" startmutedmobile="0" field="90.000" id="Element01" ambientlevel="0.000">
+        <source url="media/y2meta.com - Música De Fondo Para Videos Y Presentaciones Corporativas I Deeper por e-soundtrax (128 kbps).mp3"/>
+      </sound>
+      <lensflare pan="-229.450" tilt="19.460" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare01"/>
+      <lensflare pan="-103.610" tilt="22.270" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare02"/>
+      <lensflare pan="-71.910" tilt="45.660" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare03"/>
+      <lensflare pan="-310.830" tilt="63.930" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare04"/>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendtime="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve" enabled="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" speedwheel="1" simulatemass="1" rubberband="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbias="0.400" height="2048" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" width="2048" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2048" predecode="0" width="2048"/>
+      <level preload="0" height="1024" predecode="0" width="1024"/>
+      <level preload="0" height="512" predecode="0" width="512"/>
+      <level preload="1" height="256" predecode="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="" datetime="" nodeid="node10" tags="2. 360_Vivian" author="" copyright="" longitude="" heading="0" source="" info="" latitude="" customnodeid="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" height="20" border="1" background="1" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" enabled="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Angel Mateus" target="" pan="-278.64" tilt="-11.5" url="media/Angel Mateus.mp4" skinid="ht_video_file" description="" id="Point03"/>
+      <hotspot title="Camilo Rianio" target="" pan="-318.72" tilt="-9.85" url="media/Camilo Rianio .mp4" skinid="ht_video_file" description="" id="Point04"/>
+      <hotspot title="Daniela Arguello" target="" pan="-331.39" tilt="-11.69" url="media/Daniela Arguello.mp4" skinid="ht_video_file" description="" id="Point05"/>
+      <hotspot title="Geraldine Ordonez" target="" pan="-347.82" tilt="-13.55" url="media/Geraldine Ordonez.mp4" skinid="ht_video_file" description="" id="Point06"/>
+      <hotspot title="Henry Riaño" target="" pan="-7.93" tilt="-13.93" url="media/Henry Riaño.mp4" skinid="ht_video_file" description="" id="Point07"/>
+      <hotspot title="Jana Hernandez" target="" pan="-28" tilt="-12.99" url="media/Janna Hernandez.mp4" skinid="ht_video_file" description="" id="Point08"/>
+      <hotspot title="Juan Henao" target="" pan="-43.2" tilt="-11.28" url="media/Juan Henao.mp4" skinid="ht_video_file" description="" id="Point09"/>
+      <hotspot title="Juan Pinzon" target="" pan="-54.79" tilt="-9.43" url="media/Juan Pinzon.mp4" skinid="ht_video_file" description="" id="Point10"/>
+      <hotspot title="Julian Bonilla" target="" pan="-61.38" tilt="-7.73" url="media/Julian Bonilla.mp4" skinid="ht_video_file" description="" id="Point11"/>
+      <hotspot title="Karyn Renteria" target="" pan="-162.25" tilt="-11.54" url="media/Karyn Renteria.mp4" skinid="ht_video_file" description="" id="Point01"/>
+      <hotspot title="Laura Ramirez" target="" pan="-180.07" tilt="-12.46" url="media/Laura Ramirez.mp4" skinid="ht_video_file" description="" id="Point15"/>
+      <hotspot title="Saloda Ambiente" target="-67.5/0.9/70.0" pan="-225.6" tilt="-9.6" url="{node2}" skinid="ht_node" description="" id="Point02"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" pansize="10.000" pan="-67.260" tilt="15.270" loop="1" level="1.000" mode="3" nodechangekeep="0" startmutedmobile="0" field="90.000" id="Element01" ambientlevel="0.000">
+        <source url="media/y2meta.com - Música De Fondo Para Videos Y Presentaciones Corporativas I Deeper por e-soundtrax (128 kbps).mp3"/>
+      </sound>
+      <lensflare pan="-55.120" tilt="11.610" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare01"/>
+      <lensflare pan="-122.940" tilt="13.560" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare02"/>
+      <lensflare pan="-233.720" tilt="18.990" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare03"/>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendtime="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve" enabled="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" speedwheel="1" simulatemass="1" rubberband="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelbias="0.400" height="2048" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" width="2048" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2048" predecode="0" width="2048"/>
+      <level preload="0" height="1024" predecode="0" width="1024"/>
+      <level preload="0" height="512" predecode="0" width="512"/>
+      <level preload="1" height="256" predecode="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="" datetime="" nodeid="node11" tags="2. 360_Vivian" author="" copyright="" longitude="" heading="0" source="" info="" latitude="" customnodeid="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" height="20" border="1" background="1" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" enabled="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Salida Ambiente de Sistemas" target="-120.7/5.2/70.0" pan="-219.91" tilt="-8.97" url="{node2}" skinid="ht_node" description="" id="Point01"/>
+      <hotspot title="Realidad aumentada septimo día" target="_blank" pan="-181.62" tilt="-15.22" url="https://padlet.com/karolaghz/1jga48w2s2hl6wd9" skinid="ht_url" description="" id="Point02"/>
+      <hotspot title="Paginas Web. INAC. Noveno." target="_blank" pan="-160.06" tilt="-14.03" url="https://padlet.com/karolaghz/x07v0aq9n0m4avs9" skinid="ht_url" description="" id="Point03"/>
+      <hotspot title="Turismo Colombiano" target="_blank" pan="-320.3" tilt="-9" url="https://gonzalezacevedodey.wixsite.com/misitio-1" skinid="ht_url" description="" id="Point04"/>
+      <hotspot title="Heladeria" target="_blank" pan="-332.8" tilt="-10.42" url="https://arlexitorodriguez.wixsite.com/mysite-1" skinid="ht_url" description="" id="Point05"/>
+      <hotspot title="Almacén &quot;Esquina del Jean&quot;" target="_blank" pan="-348.43" tilt="-11.26" url="https://studionenita.wixsite.com/misitio" skinid="ht_url" description="" id="Point06"/>
+      <hotspot title="SHOES ADIDAS.INFO" target="_blank" pan="-6.15" tilt="-12.02" url="https://patigonzalezayala1.wixsite.com/shoesadidas" skinid="ht_url" description="" id="Point07"/>
+      <hotspot title="Sitios de comidas" target="_blank" pan="-23.14" tilt="-11.34" url="https://cammateusatuesta.wixsite.com/misitio" skinid="ht_url" description="" id="Point08"/>
+      <hotspot title="Motos" target="_blank" pan="-36.44" tilt="-9.82" url="https://www.coppel.com/motocicletas-motos" skinid="ht_url" description="" id="Point09"/>
+      <hotspot title="Turismo Cimitarra" target="_blank" pan="-74.35" tilt="-6.63" url="https://emipinzon26.wixsite.com/misitio-1" skinid="ht_url" description="" id="Point10"/>
+      <hotspot title="Sabores" target="_blank" pan="-86.07" tilt="-6.94" url="https://cammateusatuesta.wixsite.com/misitio" skinid="ht_url" description="" id="Point11"/>
+      <hotspot title="Recetas Virtuales" target="_blank" pan="-96.13" tilt="-6.97" url="https://caritomaco78.wixsite.com/misitioweblasvelasco/recipes" skinid="ht_url" description="" id="Point12"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" pansize="10.000" pan="-122.860" tilt="16.310" loop="1" level="1.000" mode="3" nodechangekeep="0" startmutedmobile="0" field="90.000" id="Element01" ambientlevel="0.000">
+        <source url="media/y2meta.com - Música De Fondo Para Videos Y Presentaciones Corporativas I Deeper por e-soundtrax (128 kbps).mp3"/>
+      </sound>
+      <lensflare pan="-57.060" tilt="15.890" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare01"/>
+      <lensflare pan="-315.850" tilt="20.340" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare02"/>
+      <lensflare pan="-234.160" tilt="22.280" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare03"/>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendtime="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve" enabled="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" speedwheel="1" simulatemass="1" rubberband="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" height="2048" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" width="2048" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2048" predecode="0" width="2048"/>
+      <level preload="0" height="1024" predecode="0" width="1024"/>
+      <level preload="0" height="512" predecode="0" width="512"/>
+      <level preload="1" height="256" predecode="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="" datetime="" nodeid="node3" tags="2. 360_Vivian" author="" copyright="" longitude="" heading="0" source="" info="" latitude="" customnodeid="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" height="20" border="1" background="1" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" enabled="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Cafetería" target="" pan="-150.16" tilt="-1.39" url="{node12}" skinid="ht_node" description="" id="Point01"/>
+      <hotspot title="Circulación Segunda Planta" target="" pan="-75.18" tilt="14.5" url="{node5}" skinid="ht_node" description="" id="Point02"/>
+    </hotspots>
+    <media>
+      <lensflare pan="-211.410" tilt="20.070" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare01"/>
+      <lensflare pan="-160.070" tilt="36.020" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare02"/>
+      <lensflare pan="-49.510" tilt="49.170" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare03"/>
+      <lensflare pan="-276.460" tilt="21.250" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare04"/>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendtime="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve" enabled="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" speedwheel="1" simulatemass="1" rubberband="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelbias="0.400" height="2048" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" width="2048" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2048" predecode="0" width="2048"/>
+      <level preload="0" height="1024" predecode="0" width="1024"/>
+      <level preload="0" height="512" predecode="0" width="512"/>
+      <level preload="1" height="256" predecode="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="" datetime="" nodeid="node12" tags="2. 360_Vivian" author="" copyright="" longitude="" heading="0" source="" info="" latitude="" customnodeid="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" height="20" border="1" background="1" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" enabled="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Circulación centro" target="" pan="-321.35" tilt="-2.99" url="{node3}" skinid="ht_node" description="" id="Point01"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" pansize="10.000" pan="-121.180" tilt="15.460" loop="1" level="1.000" mode="3" nodechangekeep="0" startmutedmobile="0" field="90.000" id="Element01" ambientlevel="0.000">
+        <source url="media/y2meta.com - Música De Fondo Para Videos Y Presentaciones Corporativas I Deeper por e-soundtrax (128 kbps).mp3"/>
+      </sound>
+      <lensflare pan="-220.360" tilt="11.200" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare01"/>
+      <lensflare pan="-66.710" tilt="8.480" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare02"/>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendtime="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve" enabled="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" speedwheel="1" simulatemass="1" rubberband="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbias="0.400" height="2048" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" width="2048" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2048" predecode="0" width="2048"/>
+      <level preload="0" height="1024" predecode="0" width="1024"/>
+      <level preload="0" height="512" predecode="0" width="512"/>
+      <level preload="1" height="256" predecode="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="" datetime="" nodeid="node4" tags="2. 360_Vivian" author="" copyright="" longitude="" heading="0" source="" info="" latitude="" customnodeid="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" height="20" border="1" background="1" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" enabled="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Fachada Principal" target="-67.1/8.4/70.0" pan="-91.75" tilt="-10.22" url="{node1}" skinid="ht_node" description="" id="Point01"/>
+      <hotspot title="Auditorio" target="-98.1/-10.9/70.0" pan="-120.12" tilt="-2.5" url="{node9}" skinid="ht_node" description="" id="Point02"/>
+      <hotspot title="Circulación Segunda Planta" target="-48.1/-4.1/70.0" pan="-5.82" tilt="-1.4" url="{node5}" skinid="ht_node" description="" id="Point03"/>
+      <hotspot title="Circulación centro" target="-97.3/2.2/70.0" pan="-91.57" tilt="-23.68" url="{node2}" skinid="ht_node" description="" id="Point04"/>
+      <hotspot title="Ambiente de Formación" target="-45.2/-6.8/70.0" pan="-71.63" tilt="-20.9" url="{node10}" skinid="ht_node" description="" id="Point05"/>
+      <hotspot title="Ambiente de Sistemas" target="-37.8/-13.0/70.0" pan="-111.45" tilt="-19.73" url="{node11}" skinid="ht_node" description="" id="Point06"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" pansize="10.000" pan="-83.760" tilt="9.460" loop="1" level="1.000" mode="5" nodechangekeep="0" startmutedmobile="0" field="90.000" id="Element01" ambientlevel="0.000">
+        <source url="media/y2meta.com - Música De Fondo Para Videos Y Presentaciones Corporativas I Deeper por e-soundtrax (128 kbps).mp3"/>
+      </sound>
+      <lensflare pan="-355.310" tilt="11.230" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare01"/>
+      <lensflare pan="-100.100" tilt="10.040" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare02"/>
+      <lensflare pan="-56.750" tilt="32.770" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare03"/>
+      <lensflare pan="-129.320" tilt="22.300" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare04"/>
+      <lensflare pan="-232.980" tilt="41.640" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare05"/>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendtime="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve" enabled="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" speedwheel="1" simulatemass="1" rubberband="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbias="0.400" height="2048" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" width="2048" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2048" predecode="0" width="2048"/>
+      <level preload="0" height="1024" predecode="0" width="1024"/>
+      <level preload="0" height="512" predecode="0" width="512"/>
+      <level preload="1" height="256" predecode="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="" datetime="" nodeid="node9" tags="2. 360_Vivian" author="" copyright="" longitude="" heading="0" source="" info="" latitude="" customnodeid="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" height="20" border="1" background="1" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" enabled="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Circulación Centro" target="-97.7/2.0/70.0" pan="-305.52" tilt="-11.33" url="{node4}" skinid="ht_node" description="" id="Point01"/>
+      <polyhotspot title="Conoce a Juan" target="_blank" url="https://www.powtoon.com/online-presentation/dQSed9MbujG/?utm_medium=SocialShare&amp;utm_campaign=studio-share%2Bshare%2Bby%2Bowner&amp;utm_source=studio-share-button&amp;utm_content=dQSed9MbujG&amp;utm_po=32655765&amp;mode=movie" description="" id="Poly01">
+        <polystring>-76.62/9.22|-76.54/-5.4|-101.14/-5.97|-101.26/8.95</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <lensflare pan="-119.490" tilt="10.790" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare01"/>
+      <lensflare pan="-44.660" tilt="4.760" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare02"/>
+      <lensflare pan="-235.260" tilt="17.230" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare03"/>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendtime="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve" enabled="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" speedwheel="1" simulatemass="1" rubberband="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbias="0.400" height="2048" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" width="2048" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2048" predecode="0" width="2048"/>
+      <level preload="0" height="1024" predecode="0" width="1024"/>
+      <level preload="0" height="512" predecode="0" width="512"/>
+      <level preload="1" height="256" predecode="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="" datetime="" nodeid="node5" tags="2. 360_Vivian" author="" copyright="" longitude="" heading="0" source="" info="" latitude="" customnodeid="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" height="20" border="1" background="1" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" enabled="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Ambiente Tic 1" target="-96.1/1.4/70.0" pan="-27.42" tilt="-7.17" url="{node6}" skinid="ht_node" description="" id="Point01"/>
+      <hotspot title="Ambiente Tic 2" target="-110.5/-5.3/70.0" pan="-14.5" tilt="-2.25" url="{node7}" skinid="ht_node" description="" id="Point02"/>
+      <hotspot title="Ambiente Tic 3" target="-60.9/-3.5/70.0" pan="-8.59" tilt="-2.33" url="{node8}" skinid="ht_node" description="" id="Point03"/>
+      <hotspot title="Circulación Centro" target="-93.6/4.5/70.0" pan="-91" tilt="-15.89" url="{node3}" skinid="ht_node" description="" id="Point04"/>
+      <hotspot title="Circulación Centro" target="-37.7/-1.5/70.0" pan="-179.74" tilt="-0.83" url="{node4}" skinid="ht_node" description="" id="Point05"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" pansize="10.000" pan="-25.140" tilt="22.110" loop="1" level="1.000" mode="3" nodechangekeep="0" startmutedmobile="0" field="90.000" id="Element01" ambientlevel="0.000">
+        <source url="media/y2meta.com - Música De Fondo Para Videos Y Presentaciones Corporativas I Deeper por e-soundtrax (128 kbps).mp3"/>
+      </sound>
+      <lensflare pan="-97.270" tilt="12.680" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare01"/>
+      <lensflare pan="-187.080" tilt="15.430" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare02"/>
+      <lensflare pan="-3.600" tilt="6.540" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare03"/>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendtime="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve" enabled="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" speedwheel="1" simulatemass="1" rubberband="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbias="0.400" height="2048" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" width="2048" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2048" predecode="0" width="2048"/>
+      <level preload="0" height="1024" predecode="0" width="1024"/>
+      <level preload="0" height="512" predecode="0" width="512"/>
+      <level preload="1" height="256" predecode="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="" datetime="" nodeid="node6" tags="2. 360_Vivian" author="" copyright="" longitude="" heading="0" source="" info="" latitude="" customnodeid="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" height="20" border="1" background="1" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" enabled="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Circulación Centro" target="-37.1/-4.6/70.0" pan="-243.95" tilt="-6.69" url="{node5}" skinid="ht_node" description="" id="Point01"/>
+      <hotspot title="Modelo de Reciclaje" target="" pan="-26.14" tilt="-11.48" url="images/POSTER MODELO RECICLAJE_page-0001.jpg" skinid="ht_image" description="" id="Point02"/>
+      <hotspot title="Enlace de la app" target="_blank" pan="-356.61" tilt="-12.69" url="https://curved-cannon-6358.glideapp.io/ " skinid="ht_url" description="" id="Point03"/>
+      <hotspot title="Instrumentos" target="_blank" pan="-338.08" tilt="-11.56" url="https://scratch.mit.edu/projects/577531908 " skinid="ht_url" description="" id="Point04"/>
+      <hotspot title="Globos " target="_blank" pan="-165.34" tilt="-11.82" url="https://scratch.mit.edu/projects/388509760" skinid="ht_url" description="" id="Point05"/>
+      <hotspot title="Dragón" target="_blank" pan="-182.71" tilt="-12.08" url="https://scratch.mit.edu/projects/577527985 " skinid="ht_url" description="" id="Point06"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" pansize="10.000" pan="-69.320" tilt="19.640" loop="1" level="1.000" mode="3" nodechangekeep="0" startmutedmobile="0" field="90.000" id="Element01" ambientlevel="0.000">
+        <source url="media/y2meta.com - Música De Fondo Para Videos Y Presentaciones Corporativas I Deeper por e-soundtrax (128 kbps).mp3"/>
+      </sound>
+      <lensflare pan="-66.480" tilt="20.300" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare01"/>
+      <lensflare pan="-235.050" tilt="24.930" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare02"/>
+      <lensflare pan="-102.940" tilt="6.360" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare03"/>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendtime="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve" enabled="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" speedwheel="1" simulatemass="1" rubberband="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbias="0.400" height="2048" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" width="2048" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2048" predecode="0" width="2048"/>
+      <level preload="0" height="1024" predecode="0" width="1024"/>
+      <level preload="0" height="512" predecode="0" width="512"/>
+      <level preload="1" height="256" predecode="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="" datetime="" nodeid="node7" tags="2. 360_Vivian" author="" copyright="" longitude="" heading="0" source="" info="" latitude="" customnodeid="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" height="20" border="1" background="1" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" enabled="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Circulación Centro" target="-15.7/-4.9/70.0" pan="-248.03" tilt="-7.22" url="{node5}" skinid="ht_node" description="" id="Point01"/>
+      <hotspot title="Video Maria Jose" target="" pan="-357.01" tilt="-14.12" url="media/Video Mariajose.mp4" skinid="ht_video_file" description="" id="Point02"/>
+      <hotspot title="Hora de Bailar" target="_blank" pan="-16.79" tilt="-14.03" url="https://scratch.mit.edu/projects/577537217" skinid="ht_url" description="" id="Point03"/>
+      <hotspot title="Rebota Pelota" target="_blank" pan="-169.98" tilt="-13.35" url="https://scratch.mit.edu/projects/577538323 " skinid="ht_url" description="" id="Point05"/>
+      <hotspot title="Mover Pelota" target="_blank" pan="-189.12" tilt="-13.56" url="https://scratch.mit.edu/projects/577542025 " skinid="ht_url" description="" id="Point06"/>
+      <hotspot title="MSG" target="" pan="-209.15" tilt="-12.1" url="media/VID_20211001_105614_2.mp4" skinid="ht_video_file" description="" id="Point04"/>
+      <hotspot title="Equipos de trabajo" target="" pan="-336.57" tilt="-12.8" url="media/WhatsApp Video 2021-10-04 at 6.59.18 PM.mp4" skinid="ht_video_file" description="" id="Point07"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" pansize="10.000" pan="-62.570" tilt="23.640" loop="1" level="1.000" mode="3" nodechangekeep="0" startmutedmobile="0" field="90.000" id="Element01" ambientlevel="0.000">
+        <source url="media/y2meta.com - Música De Fondo Para Videos Y Presentaciones Corporativas I Deeper por e-soundtrax (128 kbps).mp3"/>
+      </sound>
+      <lensflare pan="-118.760" tilt="22.020" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare01"/>
+      <lensflare pan="-67.300" tilt="20.360" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare02"/>
+      <lensflare pan="-238.970" tilt="25.260" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare03"/>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendtime="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve" enabled="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" speedwheel="1" simulatemass="1" rubberband="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbias="0.400" height="2048" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" width="2048" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level preload="0" height="2048" predecode="0" width="2048"/>
+      <level preload="0" height="1024" predecode="0" width="1024"/>
+      <level preload="0" height="512" predecode="0" width="512"/>
+      <level preload="1" height="256" predecode="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata comment="" title="" datetime="" nodeid="node8" tags="2. 360_Vivian" author="" copyright="" longitude="" heading="0" source="" info="" latitude="" customnodeid="" description=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label backgroundalpha="1" borderalpha="1" borderradius="1" wordwrap="1" height="20" border="1" background="1" backgroundcolor="0xffffff" textalpha="1" width="180" bordercolor="0x000000" enabled="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot title="Circulación " target="-39.7/-8.0/70.0" pan="-217.16" tilt="-9.6" url="{node5}" skinid="ht_node" description="" id="Point01"/>
+      <hotspot title="" target="" pan="-172.63" tilt="-21.02" url="images/IMG-20201110-WA0010.jpg" skinid="ht_image" description="" id="Point02"/>
+      <hotspot title="" target="" pan="-150.44" tilt="-16.98" url="images/IMG-20201110-WA0011.jpg" skinid="ht_image" description="" id="Point03"/>
+      <hotspot title="" target="" pan="-136.29" tilt="-12.4" url="images/IMG-20201110-WA0017.jpg" skinid="ht_image" description="" id="Point04"/>
+      <hotspot title="" target="" pan="-128.92" tilt="-9.59" url="images/IMG-20201110-WA0016.jpg" skinid="ht_image" description="" id="Point05"/>
+      <hotspot title="" target="" pan="-124.26" tilt="-7.97" url="images/IMG-20201110-WA0028.jpg" skinid="ht_image" description="" id="Point06"/>
+      <hotspot title="" target="" pan="-68.57" tilt="-5.39" url="images/IMG-20201110-WA0041.jpg" skinid="ht_image" description="" id="Point07"/>
+      <hotspot title="" target="" pan="-63.18" tilt="-6.09" url="images/IMG-20201110-WA0031.jpg" skinid="ht_image" description="" id="Point08"/>
+      <hotspot title="" target="" pan="-55.77" tilt="-6.57" url="images/IMG-20201110-WA0050.jpg" skinid="ht_image" description="" id="Point09"/>
+      <hotspot title="" target="" pan="-47.5" tilt="-7.85" url="images/IMG-20201110-WA0063.jpg" skinid="ht_image" description="" id="Point10"/>
+      <hotspot title="" target="" pan="-36.58" tilt="-8.21" url="images/IMG-20201110-WA0051.jpg" skinid="ht_image" description="" id="Point11"/>
+      <hotspot title="" target="" pan="-24.21" tilt="-8.48" url="images/IMG-20201110-WA0015.jpg" skinid="ht_image" description="" id="Point12"/>
+      <hotspot title="" target="" pan="-11.21" tilt="-8.86" url="images/IMG-20201110-WA0053.jpg" skinid="ht_image" description="" id="Point13"/>
+      <hotspot title="" target="" pan="-358.36" tilt="-8.24" url="images/IMG-20201110-WA0056.jpg" skinid="ht_image" description="" id="Point14"/>
+      <hotspot title="" target="_blank" pan="-337.98" tilt="-13.42" url="" skinid="ht_url" description="" id="Point15"/>
+      <hotspot title="" target="_blank" pan="-321.12" tilt="-18.09" url="" skinid="ht_url" description="" id="Point16"/>
+    </hotspots>
+    <media>
+      <sound tiltsize="10.000" pansize="10.000" pan="-68.590" tilt="20.060" loop="1" level="1.000" mode="3" nodechangekeep="0" startmutedmobile="0" field="90.000" id="Element01" ambientlevel="0.000">
+        <source url="media/y2meta.com - Música De Fondo Para Videos Y Presentaciones Corporativas I Deeper por e-soundtrax (128 kbps).mp3"/>
+      </sound>
+      <lensflare pan="-119.320" tilt="18.440" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare01"/>
+      <lensflare pan="-105.810" tilt="5.750" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare02"/>
+      <lensflare pan="-350.470" tilt="27.160" blinding="50.000" type="1" alpha="80.000" color="0xffffff" id="Lensflare03"/>
+    </media>
+    <transition zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendtime="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve" enabled="1" softedge="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control lockedwheel="0" speedwheel="1" simulatemass="1" rubberband="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" title="" datetime="" nodeid="master" tags="" author="" copyright="" longitude="" heading="0" source="" info="" latitude="" customnodeid="" description=""/>
+  </masternode>
+</tour>
